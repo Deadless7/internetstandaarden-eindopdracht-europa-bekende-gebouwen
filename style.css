@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(24, 107, 158);
+}
+
+main {
+background-color: rgb(93, 188, 78);
+}
+
+footer {
+    background-color: rgb(24, 107, 158);
+}
+
+.Titel {
+    margin-left: 1%;
+}
+
+.Italiëgebouw {
+    margin-left: 1%;
+    margin-bottom: 2%;
+}
+
+.Colosseum {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 40%;
+    margin-left: 1%;
+}
+
+.Colosseumeinde {
+    margin-top: 2%;
+    margin-right: 40%;
+    margin-left: 1%;    
+}
+
+.Onderkant {
+    border-color: rgb(24, 107, 158);
+}
