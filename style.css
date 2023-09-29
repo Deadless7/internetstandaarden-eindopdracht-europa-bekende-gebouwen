@@ -8,31 +8,74 @@ header {
     background-color: rgb(24, 107, 158);
 }
 
+a:link {
+    color: rgb(255, 255, 255);
+}
+
+a:visited {
+    color: rgb(194, 65, 61);
+}
+
+a:hover {
+    color: blueviolet;
+}
+
+a {
+    margin-right: 15%;
+    font-size: 200%;
+}
+
 main {
-background-color: rgb(93, 188, 78);
+    background-color: rgb(93, 188, 78);
 }
 
 footer {
     background-color: rgb(24, 107, 158);
+    padding-top: 2%;
+}
+
+.europakaart {
+    margin-left: 38%;
+    font-size: 300%;  
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.kopstuk {
+    margin-left: 1%;
+}
+
+.lijstslordig {
+    margin-left: 2%;
 }
 
 .Titel {
     margin-left: 1%;
+    margin-top: 2%;
 }
 
-.Italiëgebouw {
+.bekendgebouw {
     margin-left: 1%;
     margin-bottom: 2%;
 }
 
-.Colosseum {
+img {
+    padding-left: 2%;
+}
+
+.standaardp {
     margin-top: 2%;
     margin-bottom: 2%;
     margin-right: 40%;
     margin-left: 1%;
 }
 
-.Colosseumeinde {
+.peinde {
     margin-top: 2%;
     margin-right: 40%;
     margin-left: 1%;    
@@ -40,4 +83,5 @@ footer {
 
 .Onderkant {
     border-color: rgb(24, 107, 158);
+    margin-left: 1%;
 }
