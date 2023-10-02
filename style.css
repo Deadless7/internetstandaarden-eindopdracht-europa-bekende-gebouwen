@@ -5,11 +5,16 @@
 }
 
 header {
-    background-color: rgb(24, 107, 158);
+    background-color: rgb(145, 209, 249);
+}
+
+a {
+    margin-right: 15%;
+    font-size: 200%;
 }
 
 a:link {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 a:visited {
@@ -20,17 +25,12 @@ a:hover {
     color: blueviolet;
 }
 
-a {
-    margin-right: 15%;
-    font-size: 200%;
-}
-
 main {
     background-color: rgb(93, 188, 78);
 }
 
 footer {
-    background-color: rgb(24, 107, 158);
+    background-color: rgb(145, 209, 249);
     padding-top: 2%;
 }
 
@@ -39,7 +39,7 @@ footer {
     font-size: 300%;  
 }
 
-.center {
+.flex-container {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -55,8 +55,8 @@ footer {
 }
 
 .Titel {
+    padding-top: 2%;
     margin-left: 1%;
-    margin-top: 2%;
 }
 
 .bekendgebouw {
@@ -82,6 +82,16 @@ img {
 }
 
 .Onderkant {
-    border-color: rgb(24, 107, 158);
+    border-color: rgb(142, 209, 251);
     margin-left: 1%;
+}
+
+.Gustave {
+    float: right;
+    margin-right:20%;  
+}
+
+.queenguard {
+    float: right;
+    margin-right: 10%;
 }
