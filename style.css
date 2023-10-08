@@ -34,12 +34,12 @@ footer {
     padding-top: 2%;
 }
 
-.europakaart {
-    margin-left: 38%;
+.europatitle {
+    margin-left: 40%;
     font-size: 300%;  
 }
 
-.flex-container {
+.europakaart {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -50,16 +50,16 @@ footer {
     margin-left: 1%;
 }
 
-.lijstslordig {
+ul {
     margin-left: 2%;
 }
 
-.Titel {
+h1 {
     padding-top: 2%;
     margin-left: 1%;
 }
 
-.bekendgebouw {
+h3 {
     margin-left: 1%;
     margin-bottom: 2%;
 }
@@ -91,7 +91,19 @@ img {
     margin-right:20%;  
 }
 
+.Buckinghampalace2 {
+    float: right;
+    width: 30%;
+    margin-right: 10%;
+}
+
 .queenguard {
     float: right;
-    margin-right: 10%;
+    border-left: 20%;
+    margin-top: 10%;
+}
+
+.watercolosseum {
+    float: right;
+    margin-right: 15%;
 }
